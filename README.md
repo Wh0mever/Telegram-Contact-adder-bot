@@ -66,7 +66,7 @@
 
 1. **Клонирование репозитория**:
 ```bash
-git clone https://github.com/yourusername/telegram_channel_tracker.git
+git clone https://github.com/Wh0mever/Telegram-Contact-adder-bot.git
 ```
 
 2. **Создание виртуального окружения**:
